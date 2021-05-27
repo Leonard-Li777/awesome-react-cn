@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T07:59:11.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.7.2" etag="sojxsI-Jm3yo0UWYMM9E" type="github"><diagram id="-D3HPK3Xs3A1-_dWI5G_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-27T08:09:42.753Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="oQvOmEmJbXMBdooqT_9W" version="14.7.2" type="github">
+  <diagram id="-D3HPK3Xs3A1-_dWI5G_" name="Page-1">
+    <mxGraphModel dx="2253" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D5p_mO4EMILQY3NPAEZa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="70" width="450" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="D5p_mO4EMILQY3NPAEZa-2" value="ScheduleTitle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D5p_mO4EMILQY3NPAEZa-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="120" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5p_mO4EMILQY3NPAEZa-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="200" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="D5p_mO4EMILQY3NPAEZa-6" value="ScheduleCalendar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="255" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D5p_mO4EMILQY3NPAEZa-7" value="TItle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D5p_mO4EMILQY3NPAEZa-8" value="LeftMent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D5p_mO4EMILQY3NPAEZa-9" value="MessageInfo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="350" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D5p_mO4EMILQY3NPAEZa-10" value="AvatorList" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D5p_mO4EMILQY3NPAEZa-11" value="OR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="365" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
